@@ -1,0 +1,7 @@
+name: ElytraSynthesis
+version: '${project.version}'
+main: ricecc.elytrasynthesis.ElytraSynthesis
+api-version: 1.20
+authors: [ Ricecc ]
+description: ElytraSynthesis
+website: https://github.com/iskcjn
